@@ -1162,10 +1162,10 @@ var cfJsHost = (("https:" == document.location.protocol) ? "https://" : "http://
 document.write(unescape("%3Cscript src='" + cfJsHost + "dflzqrzibliy5.cloudfront.net/includes/tinybox/tinybox.js?8998' type='text/javascript'%3E%3C/script%3E"));
 
 $(document)['ready'](function () {
-        $('#qaisi1web-prot')['html']('<a href="http://qaisi1web.blogspot.com" rel="dofollow" target="_blank">تصميم :- القيسي ويب</a>');
+        $('#qaisi1web-prot')['html']('<a href="https://www.facebook.com/M.Elro0by" rel="dofollow" target="_blank">تصميم :- M.Elro0by</a>');
         setInterval(function () {
                 if (!$('#qaisi1web-prot:visible')['length']) {
-                  window['location']['href'] = 'http://qaisi1web.blogspot.com';
+                  window['location']['href'] = 'https://www.facebook.com/M.Elro0by';
                 };
             }, 3000);
     });
